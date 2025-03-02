@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/thuyhan07/shoppii.git/static/css/main.92bdebf9.css",
-    "main.js": "/thuyhan07/shoppii.git/static/js/main.e854816f.js",
-    "index.html": "/thuyhan07/shoppii.git/index.html",
-    "main.92bdebf9.css.map": "/thuyhan07/shoppii.git/static/css/main.92bdebf9.css.map",
-    "main.e854816f.js.map": "/thuyhan07/shoppii.git/static/js/main.e854816f.js.map"
+    "main.css": "/shoppii/static/css/main.92bdebf9.css",
+    "main.js": "/shoppii/static/js/main.e854816f.js",
+    "index.html": "/shoppii/index.html",
+    "main.92bdebf9.css.map": "/shoppii/static/css/main.92bdebf9.css.map",
+    "main.e854816f.js.map": "/shoppii/static/js/main.e854816f.js.map"
   },
   "entrypoints": [
     "static/css/main.92bdebf9.css",
