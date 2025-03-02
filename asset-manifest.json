@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thuyhan07/shoppii.git/static/css/main.92bdebf9.css",
+    "main.js": "/thuyhan07/shoppii.git/static/js/main.e854816f.js",
+    "index.html": "/thuyhan07/shoppii.git/index.html",
+    "main.92bdebf9.css.map": "/thuyhan07/shoppii.git/static/css/main.92bdebf9.css.map",
+    "main.e854816f.js.map": "/thuyhan07/shoppii.git/static/js/main.e854816f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92bdebf9.css",
+    "static/js/main.e854816f.js"
+  ]
+}
